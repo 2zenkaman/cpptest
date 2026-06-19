@@ -32,8 +32,7 @@ struct Point {
   int x, y;
 };
 ```
-
-    1. Point p{10, 20};
-    2. Point p = {10, 20};
-    3. Point p(10, 20);
-    4. Point p({10, 20});
+ 1. Point p{10, 20};
+ 2. Point p = {10, 20};
+ 3. Point p(10, 20);
+ 4. Point p({10, 20});
